@@ -47,6 +47,7 @@ button:hover {
   float: left;
   width: 75%;
   margin-top: 6px;
+  margin-left: 1rem;
 }
 
 .row:after {
